@@ -1,0 +1,47 @@
+CISSP Domain 1: Security and Risk Management
+
+1. Security Governance Principles
+Confidentiality, Integrity, Availability (CIA Triad): Ensuring that data is protected against unauthorized access (Confidentiality), ensuring data is accurate and trustworthy (Integrity), and ensuring data is accessible to authorized users when needed (Availability).
+Governance, Risk Management, and Compliance (GRC): Establishing policies, procedures, and standards to manage risks and ensure regulatory compliance.
+Legal and Regulatory Issues: Understanding laws and regulations that affect information security, including data protection laws (GDPR, HIPAA), intellectual property rights, and cybercrime laws.
+
+2. Risk Management
+Risk Identification: Identifying potential threats and vulnerabilities that could harm the organization.
+Risk Assessment/Analysis: Evaluating the potential impact and likelihood of risks occurring, both qualitatively and quantitatively.
+Risk Response: Choosing appropriate strategies to handle risks (accept, avoid, mitigate, or transfer).
+Risk Monitoring: Continuously monitoring risks and the effectiveness of risk management strategies.
+
+3. Business Continuity (BC) and Disaster Recovery (DR)
+Business Impact Analysis (BIA): Identifying and evaluating the effects of disruptions on business functions.
+BC/DR Plans: Developing and implementing plans to ensure critical business operations continue and recover from disasters.
+Incident Management: Establishing processes for detecting, responding to, and recovering from security incidents.
+
+4. Legal, Regulatory, and Compliance Issues
+Criminal, Civil, and Administrative Law: Understanding the different types of law and how they apply to information security.
+Privacy: Protecting personal information and understanding privacy laws and regulations.
+Intellectual Property (IP): Protecting intellectual property rights and ensuring compliance with IP laws.
+Compliance Requirements: Adhering to industry-specific regulations and standards (e.g., PCI-DSS, SOX, FISMA).
+
+5. Ethics and Professionalism
+(ISC)² Code of Ethics: Adhering to the professional code of ethics established by (ISC)², which includes protecting society, acting honorably, providing competent service, and advancing the profession.
+Ethical Decision-Making: Applying ethical principles to make decisions in complex situations.
+
+6. Security Policies, Standards, Procedures, and Guidelines
+Policies: High-level statements of management intent to guide decision-making.
+Standards: Mandatory requirements that specify how policies will be implemented.
+Procedures: Step-by-step instructions for carrying out specific tasks.
+Guidelines: Recommended practices that provide flexibility in achieving policy objectives.
+
+7. Risk-Based Management Concepts
+Threat Modeling: Identifying and prioritizing potential threats to the system.
+Vulnerability Management: Identifying, evaluating, and mitigating vulnerabilities within the system.
+Control Selection and Implementation: Choosing appropriate security controls based on risk assessment and organizational needs.
+
+8. Security Awareness, Training, and Education
+Security Awareness Programs: Educating employees on security policies, procedures, and best practices.
+Role-Based Training: Providing targeted training to individuals based on their specific roles within the organization.
+Ongoing Education: Continuously updating employees on new security threats and technologies.
+
+9. Third-Party Risk Management
+Vendor Management: Assessing and managing the risks associated with third-party vendors and service providers.
+Service Level Agreements (SLAs): Establishing and monitoring SLAs to ensure third-party compliance with security requirements.
