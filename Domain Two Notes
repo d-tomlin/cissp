@@ -1,0 +1,36 @@
+CISSP Domain 2: Asset Security
+
+1. Information and Asset Classification
+Data Classification: Categorizing data based on its level of sensitivity (e.g., Public, Internal, Confidential, Secret). Helps determine the level of protection required.
+Asset Valuation: Assessing the value of information and physical assets to prioritize protection efforts.
+Handling Requirements: Establishing procedures for handling, storing, and transferring classified data to ensure its protection.
+
+2. Data and Asset Ownership
+Data Owners: Individuals or entities responsible for classifying, protecting, and managing data.
+System Owners: Responsible for the overall management of a system that processes or stores data, including implementing security controls.
+Custodians: Individuals or teams responsible for the day-to-day management and protection of data (e.g., IT administrators).
+Users: Individuals who interact with data and systems, responsible for following security policies and procedures.
+
+3. Privacy Protection
+Personally Identifiable Information (PII): Identifying and protecting data that can be used to identify an individual.
+Data Retention and Disposal: Ensuring that data is retained for as long as necessary and securely disposed of when no longer needed.
+Legal and Regulatory Compliance: Adhering to laws and regulations related to privacy and data protection (e.g., GDPR, CCPA).
+
+4. Asset Management
+Inventory of Assets: Maintaining an up-to-date inventory of all assets, including hardware, software, and data.
+Asset Lifecycle: Managing assets throughout their lifecycle, from acquisition to disposal.
+Configuration Management: Documenting and controlling the configuration of assets to ensure their integrity and security.
+
+5. Data Security Controls
+Access Controls: Implementing measures to ensure that only authorized individuals have access to sensitive data (e.g., encryption, authentication, and authorization mechanisms).
+Encryption: Using cryptographic techniques to protect data at rest, in transit, and in use.
+Data Masking and Anonymization: Techniques for protecting sensitive data by hiding or removing identifying information.
+
+6. Secure Data Handling
+Data Storage Security: Implementing controls to protect data stored on various media, including databases, file servers, and cloud storage.
+Data Transmission Security: Ensuring the security of data as it is transmitted across networks, including the use of secure protocols (e.g., TLS, VPNs).
+Data Backup and Recovery: Implementing backup procedures to ensure data can be restored in case of loss or corruption.
+
+7. Data Integrity and Availability
+Data Integrity Controls: Ensuring data accuracy and consistency, using checksums, hashes, and digital signatures.
+Availability Controls: Implementing measures to ensure that data and systems are available when needed, including redundancy, failover mechanisms, and disaster recovery plans.
