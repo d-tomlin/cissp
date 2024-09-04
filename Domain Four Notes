@@ -1,0 +1,47 @@
+CISSP Domain 4: Communication and Network Security
+
+1. Network Architecture and Design
+OSI and TCP/IP Models: Understanding the layers of the OSI model (Physical, Data Link, Network, Transport, Session, Presentation, Application) and the TCP/IP model to effectively troubleshoot and secure network communication.
+Segmentation and Segregation: Implementing network segmentation (e.g., VLANs, subnets) and segregation (e.g., DMZs, air gaps) to limit access and control traffic flow between different parts of the network.
+Defense in Depth: Applying multiple layers of security controls across the network to protect against various types of attacks.
+
+2. Secure Network Components
+Firewalls: Implementing firewalls to control incoming and outgoing network traffic based on predetermined security rules.
+Intrusion Detection and Prevention Systems (IDS/IPS): Using IDS to monitor network traffic for suspicious activities and IPS to actively block potential threats.
+Virtual Private Networks (VPNs): Securing remote access to the network using VPN technologies (e.g., IPsec, SSL/TLS).
+Network Access Control (NAC): Enforcing security policies on devices attempting to access the network, ensuring they meet predefined security standards.
+
+3. Network Protocols and Services
+Common Protocols: Understanding and securing common network protocols (e.g., HTTP/HTTPS, FTP, DNS, SMTP, SNMP) to prevent exploitation.
+Secure Protocols: Utilizing secure versions of protocols (e.g., HTTPS instead of HTTP, SFTP instead of FTP) to protect data in transit.
+Protocol Vulnerabilities: Recognizing vulnerabilities in protocols (e.g., DNS poisoning, ARP spoofing) and implementing countermeasures to mitigate risks.
+
+4. Secure Network Design
+Network Topologies: Designing secure network topologies (e.g., star, mesh, hybrid) to optimize performance and security.
+Wireless Networks: Securing wireless networks (Wi-Fi) through encryption (WPA3), authentication, and proper configuration to prevent unauthorized access.
+Cloud and Virtualization Security: Addressing the security challenges of cloud-based and virtualized environments, including secure configuration, access control, and monitoring.
+
+5. Network Security Monitoring
+Network Traffic Analysis: Continuously monitoring network traffic to detect and respond to anomalies and potential security incidents.
+Security Information and Event Management (SIEM): Implementing SIEM systems to aggregate, correlate, and analyze security logs and events across the network.
+Anomaly Detection: Using anomaly detection techniques to identify unusual patterns that may indicate a security breach or attack.
+
+6. Telecommunications and Remote Access Security
+Telephony Security: Securing traditional and VoIP telephony systems against eavesdropping, spoofing, and denial-of-service (DoS) attacks.
+Remote Access Controls: Implementing strong authentication methods (e.g., multi-factor authentication, tokens) for remote access users to ensure secure connections.
+Mobile Device Security: Securing mobile devices that access the network through Mobile Device Management (MDM) solutions, encryption, and application controls.
+
+7. Content Distribution and Storage
+Content Delivery Networks (CDNs): Securing the distribution of content across global networks to ensure availability and protect against attacks (e.g., DDoS).
+Data Storage Security: Implementing encryption and access controls to protect data stored on network-attached storage (NAS), storage area networks (SANs), and cloud storage solutions.
+Data Loss Prevention (DLP): Using DLP technologies to monitor and control data movement across the network, preventing unauthorized data exfiltration.
+
+8. Network Threats and Mitigation
+Common Network Attacks: Identifying and mitigating common network attacks such as Distributed Denial of Service (DDoS), Man-in-the-Middle (MitM), and spoofing.
+Zero Trust Model: Implementing a Zero Trust security model where no entity (internal or external) is trusted by default, and continuous verification is required.
+Incident Response: Developing and implementing an incident response plan for network security breaches, including detection, containment, eradication, and recovery.
+
+9. Cryptography in Network Security
+Encryption: Ensuring secure communication through the use of encryption protocols like TLS/SSL for web traffic and IPsec for secure IP communication.
+Digital Certificates and PKI: Managing digital certificates and Public Key Infrastructure (PKI) to enable secure key exchange and authentication in network communications.
+VPN Security: Securing VPN connections through strong encryption, proper authentication, and regularly updating VPN software and configurations.
