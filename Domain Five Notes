@@ -1,0 +1,48 @@
+CISSP Domain 5: Identity and Access Management (IAM)
+
+1. Identification and Authentication
+Identification: Establishing a unique identity for users, systems, or devices to distinguish them within the environment.
+Authentication Methods: Implementing various authentication techniques to verify identity, including:
+Something You Know: Passwords, PINs, security questions.
+Something You Have: Smart cards, tokens, one-time passwords (OTPs).
+Something You Are: Biometrics (fingerprints, facial recognition, iris scans).
+Multi-Factor Authentication (MFA): Combining two or more authentication factors for enhanced security.
+
+2. Identity as a Service (IDaaS)
+Cloud-Based IAM: Utilizing cloud-based identity and access management solutions that provide centralized identity management, authentication, and authorization services.
+Federated Identity Management: Implementing systems that allow users to maintain a single identity across multiple organizations or services (e.g., SAML, OAuth, OpenID Connect).
+
+3. Access Control Models
+Discretionary Access Control (DAC): Allowing data owners to control access to their resources based on user identity.
+Mandatory Access Control (MAC): Enforcing access controls based on predefined security labels and classifications, typically used in high-security environments.
+Role-Based Access Control (RBAC): Assigning access permissions based on user roles within the organization, simplifying management and ensuring that users only have the access they need.
+Attribute-Based Access Control (ABAC): Making access decisions based on attributes (e.g., user role, location, time, device type) rather than just roles or identities.
+
+4. Access Control Techniques
+Access Control Lists (ACLs): Defining which users or systems are allowed to access certain resources and what actions they can perform.
+Capability Tables: Associating each user with a list of resources they are allowed to access and the operations they can perform.
+Physical Access Controls: Implementing physical security measures such as badges, biometric readers, and access control systems to restrict entry to sensitive areas.
+
+5. Identity Management Lifecycle
+Provisioning and Deprovisioning: Managing the creation, modification, and deletion of user identities and access rights throughout the identity lifecycle.
+Identity Proofing: Verifying the authenticity of a user’s identity during the initial identity creation process.
+Credential Management: Managing the issuance, renewal, and revocation of authentication credentials (e.g., passwords, digital certificates, smart cards).
+
+6. Authentication Management
+Password Management: Implementing policies for strong password creation, storage, and regular updates to reduce the risk of password-related attacks.
+Biometric Systems: Using biometric technology for authentication, balancing security with privacy and usability considerations.
+Single Sign-On (SSO): Allowing users to authenticate once and gain access to multiple systems without needing to log in again, enhancing user experience and reducing password fatigue.
+
+7. Authorization Mechanisms
+Access Reviews and Audits: Conducting regular reviews and audits of access controls to ensure they align with organizational policies and that only authorized users have access to resources.
+Least Privilege: Granting users the minimum level of access necessary to perform their job functions, reducing the potential impact of insider threats or compromised accounts.
+Separation of Duties: Implementing controls to ensure that no single individual has enough access to perform critical tasks alone, reducing the risk of fraud or error.
+
+8. Directory Services
+LDAP (Lightweight Directory Access Protocol): Utilizing directory services for centralized management of user information and authentication (e.g., Active Directory).
+Kerberos: Implementing the Kerberos protocol for secure, ticket-based authentication in distributed environments.
+RADIUS and TACACS+: Using these protocols for centralized authentication, authorization, and accounting, particularly in network access control scenarios.
+
+9. Access Management in Cloud and Mobile Environments
+Cloud IAM: Managing identities and access control in cloud environments, addressing challenges such as multi-tenancy, dynamic scaling, and remote access.
+Mobile Device Management (MDM): Securing mobile devices that access corporate resources through authentication, encryption, and policy enforcement.
