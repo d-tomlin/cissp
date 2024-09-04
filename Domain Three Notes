@@ -1,0 +1,47 @@
+CISSP Domain 3: Security Architecture and Engineering
+
+1. Security Models and Frameworks
+Security Architecture Frameworks: Implementing structured frameworks like TOGAF, SABSA, or Zachman to design and manage enterprise security architecture.
+Security Models: Applying security models such as Bell-LaPadula (confidentiality-focused), Biba (integrity-focused), and Clark-Wilson (integrity in commercial applications) to enforce security policies.
+Defense in Depth: Layering security controls to provide multiple levels of protection, ensuring that if one control fails, others will continue to protect the system.
+
+2. Security Engineering Processes
+Secure Design Principles: Incorporating principles like least privilege, separation of duties, and fail-safe defaults during the design phase to enhance security.
+Security Lifecycle: Understanding the security implications at each phase of the system development lifecycle (SDLC) and incorporating security from the initial design through to deployment and maintenance.
+Threat Modeling: Identifying and analyzing potential threats to systems and designing appropriate countermeasures.
+
+3. Cryptography
+Encryption Methods: Understanding symmetric (e.g., AES) and asymmetric (e.g., RSA) encryption methods, and their use cases.
+Cryptographic Protocols: Implementing protocols like SSL/TLS, IPsec, and HTTPS to secure communications.
+Key Management: Managing cryptographic keys throughout their lifecycle, including key generation, distribution, storage, and destruction.
+Hashing and Digital Signatures: Using hash functions (e.g., SHA-256) and digital signatures to ensure data integrity and authenticity.
+
+4. Physical Security
+Site and Facility Design: Implementing physical security controls like perimeter defenses, access controls, and surveillance to protect facilities.
+Environmental Controls: Protecting against environmental threats such as fire, flood, and temperature extremes by implementing controls like fire suppression systems and HVAC.
+Hardware Security: Securing physical hardware through measures like tamper-evident seals, secure hardware disposal, and protecting against hardware-based attacks (e.g., side-channel attacks).
+
+5. Security Architecture Components
+Network Security: Designing secure network architectures, including segmentation, firewalls, intrusion detection/prevention systems (IDS/IPS), and secure communication channels.
+Endpoint and Mobile Security: Securing endpoints like desktops, laptops, and mobile devices through anti-malware, encryption, and mobile device management (MDM) solutions.
+Application Security: Integrating security into application development through practices like secure coding, code reviews, and the use of security testing tools (e.g., static and dynamic analysis).
+
+6. Secure Systems Design
+System Hardening: Applying measures to reduce a system's attack surface, including disabling unnecessary services, patching, and configuring secure settings.
+Trusted Computing: Leveraging hardware-based security features like TPM (Trusted Platform Module) and secure boot to enhance system security.
+Virtualization and Cloud Security: Addressing the unique security challenges posed by virtualization technologies and cloud computing, including hypervisor security and secure multi-tenancy.
+
+7. Security Capabilities of Information Systems
+Access Control Models: Implementing models like Discretionary Access Control (DAC), Mandatory Access Control (MAC), Role-Based Access Control (RBAC), and Attribute-Based Access Control (ABAC) to manage user access to resources.
+Data Loss Prevention (DLP): Using DLP solutions to prevent unauthorized data transfers and leaks.
+Security Baselines: Establishing security baselines that define the minimum security configurations for systems and networks.
+
+8. Vulnerability Management and Assessment
+Penetration Testing: Conducting penetration tests to identify vulnerabilities in systems, networks, and applications.
+Vulnerability Scanning: Regularly scanning for vulnerabilities using automated tools to identify and remediate security weaknesses.
+Patch Management: Keeping systems up to date with the latest patches to mitigate vulnerabilities.
+
+9. Security Engineering Concepts in Specialized Environments
+IoT Security: Addressing the unique challenges of securing Internet of Things (IoT) devices, including resource constraints, device heterogeneity, and scalability.
+Industrial Control Systems (ICS) Security: Implementing security measures to protect ICS and SCADA (Supervisory Control and Data Acquisition) systems from cyber threats.
+Embedded Systems Security: Securing embedded systems in critical applications, such as medical devices, automotive systems, and industrial machinery.
