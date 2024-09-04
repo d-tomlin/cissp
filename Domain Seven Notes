@@ -1,0 +1,58 @@
+CISSP Domain 7: Security Operations
+
+1. Foundational Concepts
+Security Operations Management: Overseeing the day-to-day operations that protect an organization's information assets, including incident response, monitoring, and maintenance of security controls.
+Operational Resilience: Ensuring that the organization can maintain essential functions during and after a disruptive event, such as a cyber attack, natural disaster, or system failure.
+Least Privilege Principle: Applying the principle of least privilege to limit access to the minimum level necessary for users to perform their job functions, reducing the risk of insider threats.
+
+2. Incident Management
+Incident Response Planning: Developing and maintaining an incident response plan (IRP) that outlines procedures for detecting, responding to, and recovering from security incidents.
+Incident Detection and Analysis: Monitoring systems for indicators of compromise (IOCs), investigating anomalies, and analyzing incidents to determine their nature and scope.
+Incident Response: Coordinating and executing the incident response process, including containment, eradication, recovery, and communication with stakeholders.
+Post-Incident Activities: Conducting post-incident reviews to analyze the root causes of incidents, lessons learned, and implementing improvements to prevent recurrence.
+
+3. Disaster Recovery (DR) and Business Continuity Planning (BCP)
+Business Impact Analysis (BIA): Identifying critical business functions, dependencies, and potential impacts of disruptions to prioritize recovery efforts.
+Disaster Recovery Planning: Developing and testing DR plans to ensure that critical IT systems can be restored quickly after a disruption.
+Business Continuity Planning: Creating and maintaining a BCP that ensures the organization can continue operations during and after a significant disruption.
+Backup and Recovery: Implementing backup solutions and procedures to ensure data integrity and availability in the event of a system failure or data loss.
+
+4. Log Management and Monitoring
+Security Information and Event Management (SIEM): Using SIEM tools to collect, correlate, and analyze logs from various sources to detect and respond to security events in real-time.
+Log Retention and Protection: Establishing policies for log retention, ensuring that logs are stored securely, and are protected from tampering or unauthorized access.
+Monitoring and Alerting: Continuously monitoring systems for security events, and configuring alerts to notify the appropriate personnel of potential incidents.
+
+5. Resource Protection Techniques
+Data Loss Prevention (DLP): Implementing DLP solutions to monitor, detect, and prevent the unauthorized transfer of sensitive information outside the organization.
+Media Management: Managing the lifecycle of media (e.g., hard drives, tapes) that store sensitive data, ensuring proper labeling, handling, and secure disposal.
+Secure Disposal: Ensuring that data is securely erased or destroyed when no longer needed, using methods like degaussing, shredding, or incineration.
+
+6. Access Control Monitoring
+Identity and Access Management (IAM) Monitoring: Regularly reviewing access control policies, user roles, and permissions to ensure compliance with the principle of least privilege.
+Privileged Account Management (PAM): Monitoring and controlling the use of privileged accounts to prevent abuse and unauthorized access.
+Continuous Monitoring: Implementing continuous monitoring of user activities, access patterns, and systems to detect and respond to unauthorized access attempts.
+
+7. Patch and Vulnerability Management
+Patch Management: Regularly applying security patches and updates to systems and applications to address known vulnerabilities and reduce the attack surface.
+Vulnerability Management: Conducting regular vulnerability scans, assessments, and remediation efforts to identify and mitigate potential security weaknesses.
+Configuration Management: Ensuring that systems are securely configured according to established baselines, and continuously monitoring for deviations from these configurations.
+
+8. Change and Configuration Management
+Change Management Process: Implementing a formal process for managing changes to IT systems, including documentation, testing, approval, and communication of changes.
+Configuration Management Database (CMDB): Maintaining a CMDB to track the configuration and relationships of all IT assets, ensuring accurate and up-to-date information is available for decision-making.
+Change Control Board (CCB): Establishing a CCB to review and approve proposed changes, ensuring that changes are evaluated for security risks before implementation.
+
+9. Physical Security Operations
+Physical Access Controls: Implementing physical security measures, such as locks, badges, biometric scanners, and security guards, to protect facilities and sensitive areas from unauthorized access.
+Environmental Controls: Ensuring that environmental controls (e.g., HVAC, fire suppression, power supply) are in place and functioning properly to protect IT infrastructure from physical damage.
+Surveillance and Monitoring: Using video surveillance, motion detectors, and alarms to monitor and protect physical assets, ensuring quick detection and response to security incidents.
+
+10. Security Awareness and Training
+Security Training Programs: Developing and delivering training programs to educate employees about security policies, procedures, and best practices.
+Phishing Simulations: Conducting regular phishing simulations to test employees' awareness and response to phishing attacks, and providing targeted training based on results.
+Awareness Campaigns: Running security awareness campaigns to keep security top-of-mind for all employees, using posters, newsletters, and interactive sessions.
+
+11. Investigations and Forensics
+Digital Forensics: Collecting, preserving, and analyzing digital evidence following an incident, ensuring the integrity and admissibility of evidence for legal proceedings.
+Chain of Custody: Maintaining a strict chain of custody for all evidence collected during investigations to ensure it remains unaltered and is handled properly.
+Legal and Regulatory Compliance: Ensuring that all investigations comply with relevant laws and regulations, and that the organization is prepared to respond to legal requests for information.
